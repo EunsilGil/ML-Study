@@ -16,5 +16,5 @@
 앙상블 모델 중 가장 높은 정확도의 model을 선정
 
 ### reference
-[Kaggle - HR Analytics: Employee Promotion Data](https://www.kaggle.com/arashnic/hr-ana?select=test.csv)
-[Youtube - 기계학습 with Python](https://www.youtube.com/watch?v=rxifZvuhgoA&list=PLEUKy_nwlzwHmQZUPvYWUsy73wBrz7XFN)
+
+[Kaggle - HR Analytics: Employee Promotion Data](https://www.kaggle.com/arashnic/hr-ana?select=test.csv)  
