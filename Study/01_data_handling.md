@@ -10,7 +10,7 @@ Python에서 활용하는 collection literal은 총 4가지이다.
 |리스트(list)|`num = [1, 2, 3]`| Mutable | O |
 |튜플(tuple)|`num = (1, 2, 3)`| Immutable | O |
 |집합(set)|`num = {1, 2, 3}`| Mutable | X |
-|딕셔너리(dictionary)|`num = {'key1' : 1, 'key2' : 2}| Mutable | X |  
+|딕셔너리(dictionary)|`num = {'key1' : 1, 'key2' : 2}`| Mutable | X |  
   
 실제로 data를 분석할 때에는 `tuple`을 가장 많이 활용하니, tuple의 특성을 잘 기억해두자.  
 
