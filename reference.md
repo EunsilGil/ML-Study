@@ -3,6 +3,9 @@
 [Advanced Python - 영어](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)  
 [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
 [파이썬을 파이썬 답게](https://programmers.co.kr/learn/courses/4008)
+[이수안 교수님 - 파이썬/데이터과학/머신러닝/컴퓨터비전](https://www.youtube.com/c/이수안컴퓨터연구소)
+[FreeCodeCamp - 다양한 언어와 프레임워크](https://www.youtube.com/c/Freecodecamp)
+
 --- 
 
 # AI
@@ -18,6 +21,7 @@
 [동빈나 - 딥러닝](https://www.youtube.com/c/dongbinna)  
 [김성범 교수님 - 머신러닝](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ)  
 [이상철 교수님 - 기계학습](https://www.youtube.com/watch?v=rxifZvuhgoA&list=PLEUKy_nwlzwHmQZUPvYWUsy73wBrz7XFN)
+[문일철 교수님 - 기계학습 심화](https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg)
 [팡요랩 - 강화학습](https://www.youtube.com/channel/UCwkGvF7xKz2E0Lv-fZ9wv2g)  
 [수학의 즐거움](https://www.youtube.com/channel/UCB_AbuIVIG8I3K3_T_j0FSw)
 
